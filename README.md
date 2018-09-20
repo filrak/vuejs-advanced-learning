@@ -9,11 +9,12 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 # Table of contents
 
-- <a href="##courses-and-video-tutorials">Courses and video tutorials</a>
+- <a href="#courses-and-video-tutorials">Courses and video tutorials</a>
   - <a href="#multiple-topics">Multiple topics</a>
   - <a href="#architeture-patterns-and-best-practices">Architecture, patterns and best practices</a>
 - <a href="#articles">Articles</a>
   - <a href="#architeture-patterns-and-best-practices-1">Architecture, patterns and best practices</a>
+  - <a href="#source-code-and-internal-behavior">Source code and internal behavior</a>
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
 - <a href="#books">Books</a>
@@ -35,7 +36,11 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 # Articles
 
 ### Architeture, patterns and best practices
-- [Vue.js considerations and tricks by Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
+- [Vue.js considerations and tricks / Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
+
+### Source code and internal behavior
+= [A deep dive in the Vue.js source code
+ / oneminutejs](https://medium.com/@oneminutejs/a-deep-dive-in-the-vue-js-source-code-fd9638c05c05)
 
 # Talks
 
