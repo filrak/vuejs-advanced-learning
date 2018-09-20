@@ -17,6 +17,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
   - <a href="#source-code-and-internal-behavior">Source code and internal behavior</a>
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
+  - <a href="#animations">animations</a>
 - <a href="#books">Books</a>
   - <a href="#architeture-patterns-and-best-practices-2">Architecture, patterns and best practices</a>
   - <a href="#testing">Testing</a>
@@ -46,6 +47,9 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 ### vue-router
   - [Understanding client side routing with Vue.js by Hassan Djirdeh · JSCamp Barcelona 2018](https://www.youtube.com/watch?v=YFnimUl8Qjo) 
+  
+### animations
+  - [State animations Getting them right / Eduardo San Martin Morote Vue.js Amsterdam](https://www.youtube.com/watch?v=5oDTJfPgxIM)
   
 # Books
 
