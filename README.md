@@ -5,7 +5,7 @@ If you know some courses/articles about advanced Vue architectural patterns or h
 
 # Table of contents
 
-1. Courses
+1. <a href="#courses">Courses</a>
   - Multiple topics
   - Architecture
   - Vuex
@@ -15,6 +15,12 @@ If you know some courses/articles about advanced Vue architectural patterns or h
 
 
 # Courses
+
+### Multiple Topics
+
+### Architecture
+
+###  Vuex
 
 # Articles
 
