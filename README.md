@@ -4,14 +4,14 @@ I hope that this list will make it much easier for everyone to learn advanced an
 
 **All of the listed resources are dedicated for developers who are already familiar with Vue.js and have some prior experience with this framework.**
 
-If you know some courses/articles about advanced Vue patterns, in-depth explainations or just non-trivial stuff that would be helpful for other vue develoeprs please don't hesitate to share them!
+If you know some courses/articles about advanced Vue patterns, in-depth explainations or just non-trivial stuff that would be helpful for other vue developers please don't hesitate to share them!
 
 
 # Table of contents
 
 - <a href="#courses-and-video-tutorials">Courses and video tutorials</a>
   - <a href="#multiple-topics">Multiple topics</a>
-  - <a href="#architeture-patterns-and-best-practices">Architecture, patterns and best practices</a>
+  - <a href="#architecture-patterns-and-best-practices">Architecture, patterns and best practices</a>
 - <a href="#articles">Articles</a>
   - <a href="#architeture-patterns-and-best-practices-1">Architecture, patterns and best practices</a>
   - <a href="#source-code-and-internal-behavior">Source code and internal behavior</a>
@@ -20,7 +20,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
   - <a href="#vue-router">vue-router</a>
   - <a href="#animations">animations</a>
 - <a href="#books">Books</a>
-  - <a href="#architeture-patterns-and-best-practices-2">Architecture, patterns and best practices</a>
+  - <a href="#architecture-patterns-and-best-practices-2">Architecture, patterns and best practices</a>
   - <a href="#testing">Testing</a>
 - <a href="#blogs">Blogs</a>
 
@@ -33,7 +33,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Advanced Vue.js Features from the Ground Up
  / Evan You on Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
 
-### Architeture, patterns and best practices
+### Architecture, patterns and best practices
 
 # Articles
 
@@ -57,7 +57,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
   
 # Books
 
-### Architeture, patterns and best practices
+### Architecture, patterns and best practices
 - [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices)
 
 ### Testing
