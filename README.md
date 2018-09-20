@@ -15,6 +15,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - <a href="#articles">Articles</a>
   - <a href="#architeture-patterns-and-best-practices-1">Architecture, patterns and best practices</a>
   - <a href="#source-code-and-internal-behavior">Source code and internal behavior</a>
+  - <a href="#nuxt">Nuxt</a>
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
   - <a href="#animations">animations</a>
@@ -43,6 +44,9 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [A deep dive in the Vue.js source code
  / oneminutejs](https://medium.com/@oneminutejs/a-deep-dive-in-the-vue-js-source-code-fd9638c05c05)
 
+### Nuxt
+- [7 Frontend Architecture Lessons From Nuxt.js / ](https://zendev.com/2018/09/17/frontend-architecture-lessons-from-nuxt-js.html)
+
 # Talks
 
 ### vue-router
@@ -66,4 +70,4 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 # Contributing
 
-Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue develoeprs. If you think your link does not fit any category feel free to create the new one.
+Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue develoeprs. If you think your link does not fit any category feel free to create the new one. 
