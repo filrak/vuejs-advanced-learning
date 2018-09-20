@@ -39,6 +39,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 ### Architeture, patterns and best practices
 - [Vue.js considerations and tricks / Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
+- [Renderless Components in Vue.js / Adam Wathan](https://adamwathan.me/renderless-components-in-vuejs/)
 
 ### Source code and internal behavior
 - [A deep dive in the Vue.js source code
