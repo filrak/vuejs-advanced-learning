@@ -12,7 +12,6 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - <a href="##courses-and-video-tutorials">Courses and video tutorials</a>
   - <a href="#multiple-topics">Multiple topics</a>
   - <a href="#architeture-patterns-and-best-practices">Architecture, patterns and best practices</a>
-  - <a href="#vuex">Vuex</a>
 - <a href="#articles">Articles</a>
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
@@ -31,8 +30,6 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
  / Evan You on Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
 
 ### Architeture, patterns and best practices
-
-###  Vuex
 
 # Articles
 
