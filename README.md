@@ -29,7 +29,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Advanced Vue.js Features from the Ground Up
  / Evan You on Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
 
-### Architecture
+### Architeture, patterns and best practices
 
 ###  Vuex
 
@@ -41,6 +41,9 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
   - [Understanding client side routing with Vue.js by Hassan Djirdeh · JSCamp Barcelona 2018](https://www.youtube.com/watch?v=YFnimUl8Qjo) 
   
 # Books
+
+### Architeture, patterns and best practices
+- [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices)
 
 ### Testing
 - [Testing Vue.js applications by Edd Yerburgh](https://www.manning.com/books/testing-vuejs-applications)
