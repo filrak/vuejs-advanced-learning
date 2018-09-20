@@ -24,7 +24,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Advanced Vue Component Design / Adam Wathan](https://adamwathan.me/advanced-vue-component-design/)
 - [Advanced Vue.js Features from the Ground Up
  / Evan You on Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
-ad
+
 ### Architecture
 
 ###  Vuex
