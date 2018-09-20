@@ -11,12 +11,13 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 - <a href="##courses-and-video-tutorials">Courses and video tutorials</a>
   - <a href="#multiple-topics">Multiple topics</a>
-  - <a href="#architecture">Architecture</a>
+  - <a href="#architeture-patterns-and-best-practices">Architecture, patterns and best practices</a>
   - <a href="#vuex">Vuex</a>
 - <a href="#articles">Articles</a>
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
 - <a href="#books">Books</a>
+  - <a href="#architeture-patterns-and-best-practices-1">Architecture, patterns and best practices</a>
   - <a href="#testing">Testing</a>
 - <a href="#blogs">Blogs</a>
 
