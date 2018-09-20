@@ -20,5 +20,5 @@ If you know some courses/articles about advanced Vue architectural patterns or h
 
 # Talks
 
-1. vue-router
+### vue-router
   - [Understanding client side routing with Vue.js by Hassan Djirdeh · JSCamp Barcelona 2018](https://www.youtube.com/watch?v=YFnimUl8Qjo) 
