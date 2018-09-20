@@ -5,13 +5,13 @@ If you know some courses/articles about advanced Vue architectural patterns or h
 
 # Table of contents
 
-1. <a href="#courses">Courses</a>
-  - Multiple topics
-  - Architecture
-  - Vuex
-2. Articles
-3. Talks
-  - vue-router
+- <a href="#courses">Courses</a>
+  - <a href="#multiple-topics">Multiple topics</a>
+  - <a href="#architecture">Architecture</a>
+  - <a href="#vuex">Vuex</a>
+- <a href="#articles">Articles</a>
+- <a href="#talks">Talks</a>
+  - <a href="#vue-router">vue-router</a>
 
 
 # Courses
