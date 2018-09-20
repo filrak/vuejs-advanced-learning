@@ -8,7 +8,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 # Table of contents
 
-- <a href="#courses">Courses and video tutorials</a>
+- <a href="##courses-and-video-tutorials">Courses and video tutorials</a>
   - <a href="#multiple-topics">Multiple topics</a>
   - <a href="#architecture">Architecture</a>
   - <a href="#vuex">Vuex</a>
