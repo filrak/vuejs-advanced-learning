@@ -17,7 +17,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - <a href="#talks">Talks</a>
   - <a href="#vue-router">vue-router</a>
 - <a href="#books">Books</a>
- - <a href="#testing">Testing</a>
+  - <a href="#testing">Testing</a>
 - <a href="#blogs">Blogs</a>
 
 
@@ -47,3 +47,4 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Testing Vue.js components with Jest by Alex Jover Morales](https://leanpub.com/testingvuejscomponentswithjest/c/SbJMawK5HgGz)
 
 # Blogs
+- [Vue.js Develoeprs](https://vuejsdevelopers.com/)
