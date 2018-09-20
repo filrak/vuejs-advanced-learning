@@ -39,7 +39,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Vue.js considerations and tricks / Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
 
 ### Source code and internal behavior
-= [A deep dive in the Vue.js source code
+- [A deep dive in the Vue.js source code
  / oneminutejs](https://medium.com/@oneminutejs/a-deep-dive-in-the-vue-js-source-code-fd9638c05c05)
 
 # Talks
@@ -58,3 +58,8 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 # Blogs
 - [Vue.js Develoeprs](https://vuejsdevelopers.com/)
+
+
+# Contributing
+
+Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue develoeprs. If you think your link does not fit any category feel free to create the new one.
