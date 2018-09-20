@@ -65,7 +65,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 - [Testing Vue.js components with Jest by Alex Jover Morales](https://leanpub.com/testingvuejscomponentswithjest/c/SbJMawK5HgGz)
 
 # Blogs
-- [Vue.js Develoeprs](https://vuejsdevelopers.com/)
+- [Vue.js Developers](https://vuejsdevelopers.com/)
 
 
 # Contributing
