@@ -45,7 +45,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
  / oneminutejs](https://medium.com/@oneminutejs/a-deep-dive-in-the-vue-js-source-code-fd9638c05c05)
 
 ### Nuxt
-- [7 Frontend Architecture Lessons From Nuxt.js / ](https://zendev.com/2018/09/17/frontend-architecture-lessons-from-nuxt-js.html)
+- [7 Frontend Architecture Lessons From Nuxt.js](https://zendev.com/2018/09/17/frontend-architecture-lessons-from-nuxt-js.html)
 
 # Talks
 
