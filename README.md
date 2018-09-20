@@ -35,7 +35,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 # Articles
 
 ### Architeture, patterns and best practices
-- [Vue.js considerations and tricks by Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb_
+- [Vue.js considerations and tricks by Harshal Patil](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
 
 # Talks
 
