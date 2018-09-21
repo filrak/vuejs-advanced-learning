@@ -35,6 +35,9 @@ If you know some courses/articles about advanced Vue patterns, in-depth explaina
 
 ### Architecture, patterns and best practices
 
+### Testing
+- [Testing Vue / Laracast](https://laracasts.com/series/testing-vue)
+
 # Articles
 
 ### Architeture, patterns and best practices
