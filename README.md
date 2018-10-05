@@ -4,7 +4,7 @@ I hope that this list will make it much easier for everyone to learn advanced an
 
 **All of the listed resources are dedicated for developers who are already familiar with Vue.js and have some prior experience with this framework.**
 
-If you know some courses/articles about advanced Vue patterns, in-depth explainations or just non-trivial stuff that would be helpful for other vue developers please don't hesitate to share them!
+If you know some courses/articles about advanced Vue patterns, in-depth explanations or just non-trivial stuff that would be helpful for other vue developers please don't hesitate to share them!
 
 
 # Table of contents
