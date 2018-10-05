@@ -49,6 +49,8 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
 ### Source code and internal behavior
 - [A deep dive in the Vue.js source code
  / oneminutejs](https://medium.com/@oneminutejs/a-deep-dive-in-the-vue-js-source-code-fd9638c05c05)
+- [Vue.js Reactivity / Anthony Gore](https://vuejsdevelopers.com/2017/03/05/vue-js-reactivity/)
+- [Build a reactivity system / Vue Mastery](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
 
 ### Nuxt
 - [7 Frontend Architecture Lessons From Nuxt.js](https://zendev.com/2018/09/17/frontend-architecture-lessons-from-nuxt-js.html)
