@@ -79,3 +79,5 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
 # Contributing
 
 Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue develoeprs. If you think your link does not fit any category feel free to create the new one. 
+
+List curated by [Filip Rakowski](https://twitter.com/filrakowski)
