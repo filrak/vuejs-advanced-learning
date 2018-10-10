@@ -1,10 +1,12 @@
 # Advanced and in-depth learning resources for Vue.js
-While it's quite easy to find tutorials about Vue.js things are getting much harder when you want to learn something beyond the basics 
-I hope that this list will make it much easier for everyone to learn advanced and non-trivial Vue stuff about architecture, patterns, it's internals and real-world use cases. 
+
+While it's quite easy to find tutorials about Vue.js, things are getting much harder when you want to learn something beyond the basics.
+
+I hope that this list will make it much easier for everyone to learn advanced and non-trivial Vue stuff about architecture, patterns, internals and real-world use cases. 
 
 **All of the listed resources are dedicated for developers who are already familiar with Vue.js and have some prior experience with this framework.**
 
-If you know some courses/articles about advanced Vue patterns, in-depth explanations or just non-trivial stuff that would be helpful for other vue developers please don't hesitate to share them!
+If you know some courses/articles about advanced Vue patterns, in-depth explanations or just non-trivial stuff that would be helpful for other Vue developers please don't hesitate to share them!
 
 
 # Table of contents
