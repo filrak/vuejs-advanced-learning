@@ -25,6 +25,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
   - <a href="#architecture-patterns-and-best-practices-2">Architecture, patterns and best practices</a>
   - <a href="#testing">Testing</a>
 - <a href="#blogs">Blogs</a>
+- <a href="#podcasts">Podcasts</a>
 
 
 # Courses and video tutorials
@@ -79,9 +80,11 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
 # Blogs
 - [Vue.js Developers](https://vuejsdevelopers.com/)
 
+# Podcasts
+- [Evan You - Advanced Vue Component Design](http://www.fullstackradio.com/81)
 
 # Contributing
 
-Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue develoeprs. If you think your link does not fit any category feel free to create the new one. 
+Feel free to add any resources that you think may be useful for others by creating a Pull Request. The only requirement for the content is to target intermediate and advanced Vue developers. If you think your link does not fit any category feel free to create the new one. 
 
 List curated by [Filip Rakowski](https://twitter.com/filrakowski)
