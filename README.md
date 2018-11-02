@@ -37,6 +37,10 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
  / Evan You on Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
 - [Vue.js topics by industry experts and core team members from beginner to master class
  / Vue School](https://vueschool.io/)
+- [The Vue.js Master Class / Vue School](https://vueschool.io/courses/the-vuejs-master-class)
+- [Vuex for Everyone / Vue School](https://vueschool.io/courses/vuex-for-everyone)
+- [Dynamic Forms with Vue.js / Vue School](https://vueschool.io/courses/dynamic-forms-vuejs)
+- [Custom Vue.js Directives / Vue School](https://vueschool.io/courses/custom-vuejs-directives)
 
 ### Architecture, patterns and best practices
 
