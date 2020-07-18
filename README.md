@@ -41,7 +41,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
 - [Vuex for Everyone / Vue School](https://vueschool.io/courses/vuex-for-everyone)
 - [Dynamic Forms with Vue.js / Vue School](https://vueschool.io/courses/dynamic-forms-vuejs)
 - [Custom Vue.js Directives / Vue School](https://vueschool.io/courses/custom-vuejs-directives)
-
+- [26 Time Saving Tips for Vue](https://michaelnthiessen.com/26-time-saving-tips/)
 ### Architecture, patterns and best practices
 
 ### Testing
